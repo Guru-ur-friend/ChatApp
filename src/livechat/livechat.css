@@ -1,0 +1,148 @@
+.livechat {
+    margin-top: 10%;
+    margin-left: 20px;
+    background-color: white; 
+    height: 600px;
+    
+}
+.livechatHeader{
+    border:1px solid white;
+    margin-bottom: 1px;
+    border-bottom: 2px solid  rgb(230, 230, 233);  
+    padding: 15px;
+    width: 100%;
+    background-color: rgb(249, 251, 253);
+}
+
+.liveChatBody::-webkit-scrollbar {
+    width: 10px;
+}
+
+.liveChatBody::-webkit-scrollbar-track {
+    background-color: white;
+}
+
+.liveChatBody::-webkit-scrollbar-thumb {
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    border-radius: 100px;
+}
+
+.liveChatBody{
+    overflow-y: scroll;  
+    height: 380px;
+    max-width: 650px;
+    border:1px solid white;
+    font-size: 0.8em;
+    clear: both;
+    margin-left: 20px;
+}
+
+.livechatHeader img{
+    float: left;
+}
+
+.livechatHeaderSide{
+    padding-left: 10%;
+    margin-top: 5px;       
+}
+
+
+.liveChatOptions{
+    float: right;
+}
+
+.liveChatOptions i{
+padding: 10px;
+border: 1px solid gray;
+border-radius: 50%;
+margin-left: 20px;
+background-color: white;
+color: gray;
+}
+.chatWrapper{
+    clear: both;
+}
+.sentOption{
+   color: gray;
+   float: left;
+  margin-top: 5%;
+   padding-left: 2%;
+}
+
+.replyOption{
+    color: gray;
+   float: right;
+   margin-top: 5%;
+   margin-right : 2%;  
+    
+}
+
+.livechat textarea  
+{
+    font-size:12px;
+    outline: none;
+}
+.readStyle{   
+    color: gray;  
+    position: absolute;
+    margin-top: 28px;
+    margin-left: 560px;
+}
+
+
+
+.hideImg{
+    display: none;
+}
+
+.chatSentStytle{
+    float: left;
+    border: 1px solid rgba(11, 145, 255, 0.836);
+    color: white;
+    background-color: rgba(11, 145, 255, 0.836);
+    max-width: 450px ;
+    word-wrap: break-word;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;    
+    font-size: 0.90em;
+    font-weight: 500;
+    padding : 2%;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+
+.chatReplyStyle{
+    float: right;
+    border: 1px solid gray;
+    color: gray;
+    background-color:white;
+    clear: both;
+    word-wrap: break-word;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;   
+    font-size: 0.90em;
+    font-weight: 500;
+    padding : 2%;
+    margin-right: 10%;
+    margin-top: 2%;
+}
+
+.liveChatReply{
+    border  : 1px solid rgba(0, 0, 0, 0.3);
+    margin-top: 5%;
+    padding: 21px 20px;
+}
+
+.liveChatReply img{
+    border-radius: 50%;
+    width: 5%;
+    margin-left: 20px;
+    margin-top: -24px;
+}
+.liveChatText{
+    width: 80%;
+    border : none;
+}

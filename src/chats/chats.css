@@ -1,0 +1,129 @@
+
+.chats{
+    margin-left: 20px;
+    margin-top: 15%;   
+    
+}
+
+.chatBody{
+    overflow-y: scroll;   
+    max-height: 480px;
+    
+}
+.chatBody::-webkit-scrollbar {
+    width: 10px;
+}
+
+.chatBody::-webkit-scrollbar-track {
+    background-color: white;
+}
+
+.chatBody::-webkit-scrollbar-thumb {
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    border-radius: 100px;
+}
+
+.cardHeader{
+    padding-top: 2%;
+}
+  
+.modifiedTime{
+    float : right;
+    font-size: 0.7em;
+    
+}
+
+input[type="text"]
+{
+    font-size:12px;
+}
+.customcard{
+    background-color: white;
+    margin-bottom: 5%;
+    padding : 4% 4%;
+}
+
+.customCardActive{
+    margin-bottom: 5%;
+    padding : 4% 4%;
+    background-color: rgba(11, 145, 255, 0.836);
+    color:  white;
+}
+.chatHeader{
+    width: auto;
+}
+
+.titleStyle{
+    float: left;
+    font-weight: 600;
+    font-size: 0.95em;
+}
+.imgStyle{
+    float: left; 
+    padding-right: 5px;
+    border-radius: 50%;
+     width: 40px ;
+     height: 30px;
+}
+
+.active {
+    width: 5px;
+    height: 5px;
+    background: green;
+    border-radius: 50%;
+    float: left;
+    display: inline;
+    
+}
+
+.away {
+    width:  5px;
+    height: 5px;
+    background: rgb(255, 217, 48);
+    border-radius: 50%;
+    float: left;
+}
+
+.cardBody{
+    display: block;
+    clear: both;
+    padding-top: 2%;
+    font-size: 0.75em;
+   
+}
+.chatHeader p {
+    color: gray;
+    font-size: small;
+    font-weight: 600;
+}
+.chatHeader h4{
+    font-weight: 500;
+}
+
+input::-webkit-input-placeholder {
+    font-size: 14px;
+    line-height: 3;
+}
+
+.chatHeader button {
+    font-size: 0.9em;
+    padding: 10px;
+}
+
+.search{
+    margin-bottom: 4%;
+    padding: 12px;
+}
+
+
+.chtbtn{
+    background-color: rgba(11, 145, 255, 0.836);
+    border-color: rgba(11, 145, 255, 0.836);
+}
+.chatHeader h1 p{
+   float: left;
+}
+.chatHeader button{
+    float: right;
+
+}

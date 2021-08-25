@@ -1,0 +1,144 @@
+{
+  "chats": [
+    {
+      "id": "1",
+      "userName": "Luy Robin",
+      "profilePic": "../assests/user1.png",
+      "lastMessage": "we can discuss it further !",
+      "lastMsgType": "reply",
+      "chat": [
+        {
+          "msgId": "1",
+          "message": "Hello! Finally found the time to write to you) I need your help in creating interactive animations for mobile applications.",
+          "type": "sent",
+          "timeLogged": "2021-08-24T13:45:00.000Z"
+        },
+        {
+          "msgId": "2",
+          "message": "Can I send you the files",
+          "type": "sent",
+          "timeLogged": "2021-08-24T13:46:00.000Z"
+        },
+        {
+          "msgId": 3,
+          "message": "hey ! Okay send out",
+          "type": "reply",
+          "timeLogged": "2021-08-24T03:56:30.001Z"
+        },
+        {
+          "msgId": 4,
+          "message": "Send out it to your mail Id",
+          "type": "sent",
+          "timeLogged": "2021-08-24T03:07:56.856Z"
+        },
+        {
+          "msgId": 5,
+          "message": "got it ..thank you !",
+          "type": "reply",
+          "timeLogged": "2021-08-24T03:07:57.856Z"
+        },
+        {
+          "msgId": 6,
+          "message": "we can discuss it further !",
+          "type": "reply",
+          "timeLogged": "2021-08-25T02:19:58.733Z"
+        }
+      ],
+      "availabe": "Yes",
+      "lastLogin": "2021-08-24T03:07:57.856Z",
+      "photos": "",
+      "files": "",
+      "audio": ""
+    },
+    {
+      "id": "2",
+      "userName": "Jared Sunn",
+      "profilePic": "./assests/user2.png",
+      "lastMessage": "What did you do all summer when we were working to collect our food?",
+      "lastMsgType": "reply",
+      "chat": [
+        {
+          "msgId": "1",
+          "message": "Why are you working on such a lovely day ?",
+          "type": "sent",
+          "timeLogged": "2021-08-24T13:45:00.000Z"
+        },
+        {
+          "msgId": "2",
+          "message": "I'm collecting food for the winter",
+          "type": "reply",
+          "timeLogged": "2021-08-24T13:46:00.000Z"
+        },
+        {
+          "msgId": "3",
+          "message": "I suggest you do the same.",
+          "type": "sent",
+          "timeLogged": "2021-08-24T13:47:00.000Z"
+        },
+        {
+          "msgId": "4",
+          "message": "What did you do all summer when we were working to collect our food?",
+          "type": "reply",
+          "timeLogged": "2021-08-24T13:48:00.000Z"
+        }
+      ],
+      "availabe": "Yes",
+      "lastLogin": "2021-08-24T13:48:00.000Z",
+      "photos": "",
+      "files": "",
+      "audio": ""
+    },
+    {
+      "id": "3",
+      "userName": "Nika Jerrado",
+      "profilePic": "./assests/user2.png",
+      "lastMessage": "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod",
+      "lastMsgType": "reply",
+      "chat": [
+        {
+          "msgId": "1",
+          "message": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "type": "sent",
+          "timeLogged": "2021-02-10T13:45:00.000Z"
+        },
+        {
+          "msgId": "2",
+          "message": "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod",
+          "type": "reply",
+          "timeLogged": "2021-02-10T13:46:00.000Z"
+        }
+      ],
+      "availabe": "Yes",
+      "lastLogin": "2021-08-21T13:46:00.000Z",
+      "photos": "",
+      "files": "",
+      "audio": ""
+    },
+    {
+      "id": "4",
+      "userName": "David Amrosa",
+      "profilePic": "./assests/user2.png",
+      "lastMessage": "But when he reached the end, he saw the Tortoise there already",
+      "lastMsgType": "reply",
+      "chat": [
+        {
+          "msgId": "1",
+          "message": "You may be as fast as the wind, but I will beat you in a race",
+          "type": "sent",
+          "timeLogged": "2021-08-24T16:45:00.000Z"
+        },
+        {
+          "msgId": "2",
+          "message": "But when he reached the end, he saw the Tortoise there already",
+          "type": "reply",
+          "timeLogged": "2021-08-24T13:46:00.000Z"
+        }
+      ],
+      "availabe": "No",
+      "lastLogin": "2021-08-24T13:47:00.000Z",
+      "photos": "",
+      "files": "",
+      "audio": ""
+    }
+  ]
+}
